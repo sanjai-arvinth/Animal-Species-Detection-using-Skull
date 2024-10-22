@@ -1,0 +1,3 @@
+[classes]
+0 = skull
+1 = non-skull
